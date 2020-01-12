@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+    background-image: url(https://images.wallpapersden.com/image/download/small-memory_58461_3840x2160.jpg);
+    background-repeat: no-repeat;
+    background-position: 10px;
+}
+div{
+    background-color: red;
+    border-color: yellow;
+    border-width: 5px;
+    border-style: double;
+
+}
+span{
+    background-color: black;
+}
+p{
+    color: white;
+
+}
